@@ -1,5 +1,4 @@
 Free Niek's Operating System.
-
 Authors:
 
     Niek Linnenbank
@@ -7,7 +6,6 @@ Authors:
     Coen Bijlsma (libparse, srv/time)
     Ed Schouten (libteken)
     Alexander Schrijver (OpenBSD patches)
-
 # EDIT
 + edit Sconstruct
 ``` python
